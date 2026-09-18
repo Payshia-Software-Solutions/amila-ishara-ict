@@ -17,7 +17,7 @@ const CONFIG = {
   imageAlt: "Amila Ishara ICT Seminar Post Banner",
 
   // YouTube Channel or Video link
-  youtubeUrl: "https://www.youtube.com/@AmilaIsharaICT",
+  youtubeUrl: "https://youtube.com/@hodamaictpanthiya4653?si=nY9zjI-hibOJlKoV",
   youtubeButtonText: "Watch on YouTube",
   youtubeSecondaryText: "Click to open channel / video in a new tab",
 }
