@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="favBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+    <linearGradient id="favBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff0044" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Squircle -->
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#favBg)" stroke="url(#favBorder)" stroke-width="3" />
+
+  <!-- Monitor Screen -->
+  <rect x="12" y="13" width="40" height="28" rx="5" fill="#1e293b" stroke="#ffffff" stroke-width="2.5" />
+  
+  <!-- Code Brackets </ > -->
+  <path d="M 23 21 L 18 27 L 23 33" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <path d="M 41 21 L 46 27 L 41 33" stroke="#ff0055" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <line x1="34" y1="20" x2="30" y2="34" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" opacity="0.9" />
+
+  <!-- Stand & Base -->
+  <path d="M 28 41 L 26 48 L 38 48 L 36 41" fill="#94a3b8" />
+  <rect x="21" y="48" width="22" height="3" rx="1.5" fill="#e2e8f0" />
+
+  <!-- Red YouTube Notification Dot -->
+  <circle cx="47" cy="14" r="5" fill="#ff0033" stroke="#0b0f19" stroke-width="2" />
+</svg>
